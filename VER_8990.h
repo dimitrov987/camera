@@ -5,7 +5,7 @@
 #ifndef VER_8990_H
 #define VER_8990_H
 
-#define REG_GREEN 2
+#define REG_GREEN 3
 extern int HW_VER;
 extern char *REG_TABLE[5];
 
